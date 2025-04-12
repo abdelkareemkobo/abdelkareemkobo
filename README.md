@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdelkareemkobo/abdelkareemkobo/main/banner.png" alt="Arabic NLP Researcher" width="100%">
+  <img src="https://raw.githubusercontent.com/abdelkareemkobo/abdelkareemkobo/main/ign_rick.png" alt="Arabic NLP Researcher" width="100%">
 </p>
 
 # Hey, I'm Abdelkareem Elkhateb 👋
