@@ -11,6 +11,7 @@ I'm a Machine Learning Engineer passionate about **Arabic NLP**, **Large Languag
   <a href="https://x.com/Abdelkareem_NNs"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://kareemai.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   <a href="https://www.upwork.com/freelancers/~016a9fea792423bb9a"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+  <a href="https://gpuvec.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
 </p>
 
 ## 🔧 Tech Stack
