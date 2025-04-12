@@ -10,7 +10,7 @@ I'm a Machine Learning Engineer passionate about **Arabic NLP**, **Large Languag
   <a href="https://linkedin.com/in/abdelkareem-elkhateb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/Abdelkareem_NNs"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://kareemai.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="[https://www.upwork.com/freelancers/~016a9fea792423bb9a](https://www.upwork.com/freelancers/abdelkareme)"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+  <a href="https://www.upwork.com/freelancers/~016a9fea792423bb9a"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
 </p>
 
 ## 🔧 Tech Stack
@@ -40,8 +40,8 @@ I'm a Machine Learning Engineer passionate about **Arabic NLP**, **Large Languag
 ## 🌟 What I Do
 - **Arabic NLP**: Building LLMs, embeddings, and OCR/ASR models for Arabic content.
 - **Generative AI**: Crafting models for interior design, medical images, and more for real-world applications.
-- **RAG Systems**: Powering semantic search and recommendation engines.
-- **Web Dev with AI**: Creating Astro.js and HTMX websites like [Arabic Calories Calculator](https://kamcalorie.com), [GPU Benchmark for AI](https://gpuvec.com), and [عزل اسطح في جدة](https://awazly.com).
+- **RAG Systems**: Powering semantic search and recommendation engines with Qdrant.
+- **Web Dev with AI**: Creating Astro.js, FastHTML, and Supabase-powered websites like [Arabic Calories Calculator](https://kamcalorie.com), [GPU Benchmark for AI](https://gpuvec.com), and [عزل اسطح في جدة](https://awazly.com).
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -60,24 +60,23 @@ I'm a Machine Learning Engineer passionate about **Arabic NLP**, **Large Languag
 </p>
 
 ## 🚀 Featured Projects
+- **[SEO Rat](https://github.com/abdelkareemkobo/seo_rat)**  
+  An SEO optimization tool for markdown-based content, hosted with Supabase.  
+  *Tech*: Python, Astro.js, Markdown, Supabase
 - **[Semantic Search Engine for Arabic Content](https://github.com/abdelkareemkobo/repo-name)**  
-  Built a transformer-based search engine to enhance Arabic content discoverability.  
-  *Tech*: Python, Transformers, FastAPI
+  Built a transformer-based search engine with Qdrant to enhance Arabic content discoverability.  
+  *Tech*: Python, Transformers, FastAPI, Qdrant
 - **[Generative Art Models for Real Estate](https://github.com/abdelkareemkobo/repo-name)**  
   Created diffusion models to generate real estate images from text descriptions.  
-  *Tech*: Python, Diffusion Models, FastAPI
+  *Tech*: Python, Diffusion Models, FastAPI, CUDA
 - **[AI-Powered Childcare App](https://github.com/abdelkareemkobo/repo-name)**  
   Developed a voice recognition system to interpret infant sounds for new mothers.  
-  *Tech*: Python, TensorFlow
-- **[SEO Rat](https://github.com/abdelkareemkobo/repo-name)**  
-  An SEO optimization tool for markdown-based content.  
-  *Tech*: Python, Astro.js, Markdown
+  *Tech*: Python, TensorFlow, FastAI
 
 ## 📝 Recent Blog Posts
-- [What is Federated Learning](https://kareemai.com/blog/posts/fl/what_is_federated_learning.html)
-- [Cloud GPU Pricing in 2025](https://kareemai.com/blog/posts/life_style/gpuvec.html)
-- [my drem job at Trarteel](https://kareemai.com/blog/posts/life_style/gpuvec.html)
-
+- [What is Federated Learning](https://kareemai.com/blog/posts/fl/what_is_federated_learning.html)  
+- [Cloud GPU Pricing in 2025](https://kareemai.com/blog/posts/life_style/gpuvec.html)  
+- [My Dream Job at Tarteeel](https://kareemai.com/blog/posts/life_style/tarteel.html)
 
 ## 📬 Connect with Me
 <p align="center">
@@ -85,6 +84,8 @@ I'm a Machine Learning Engineer passionate about **Arabic NLP**, **Large Languag
   <a href="https://codeforces.com/profile/Elkhateb"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
   <a href="https://kareemai.com"><img src="https://img.shields.io/badge/Blog-FF7139?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
   <a href="https://www.upwork.com/freelancers/~016a9fea792423bb9a"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+  <a href="https://www.researchgate.net/profile/Abdelkareem-Elkhateb"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
+  <a href="https://scholar.google.com/citations?user=lF1wxvcAAAAJ&hl=ar"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
 </p>
 
 <p align="center">
