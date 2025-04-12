@@ -43,6 +43,8 @@ I'm a Machine Learning Engineer passionate about **Arabic NLP**, **Large Languag
 - **RAG Systems**: Powering semantic search and recommendation engines with Qdrant.
 - **Web Dev with AI**: Creating Astro.js, FastHTML, and Supabase-powered websites like [Arabic Calories Calculator](https://kamcalorie.com), [GPU Benchmark for AI](https://gpuvec.com), and [عزل اسطح في جدة](https://awazly.com).
 
+<iframe src="https://gpuvec.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdelkareemkobo&show_icons=true&theme=radical" alt="GitHub Stats" />
