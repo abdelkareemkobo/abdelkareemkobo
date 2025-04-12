@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdelkareemkobo/abdelkareemkobo/main/room2.jpg" alt="Arabic NLP Researcher" width="100%">
+  <img src="https://raw.githubusercontent.com/abdelkareemkobo/abdelkareemkobo/main/banner.png" alt="Arabic NLP Researcher" width="100%">
 </p>
 
 # Hey, I'm Abdelkareem Elkhateb 👋
@@ -11,7 +11,6 @@ I'm a Machine Learning Engineer passionate about **Arabic NLP**, **Large Languag
   <a href="https://x.com/Abdelkareem_NNs"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://kareemai.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   <a href="https://www.upwork.com/freelancers/~016a9fea792423bb9a"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
-  <a href="https://gpuvec.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
 </p>
 
 ## 🔧 Tech Stack
@@ -43,8 +42,6 @@ I'm a Machine Learning Engineer passionate about **Arabic NLP**, **Large Languag
 - **Generative AI**: Crafting models for interior design, medical images, and more for real-world applications.
 - **RAG Systems**: Powering semantic search and recommendation engines with Qdrant.
 - **Web Dev with AI**: Creating Astro.js, FastHTML, and Supabase-powered websites like [Arabic Calories Calculator](https://kamcalorie.com), [GPU Benchmark for AI](https://gpuvec.com), and [عزل اسطح في جدة](https://awazly.com).
-
-<iframe src="https://gpuvec.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -89,7 +86,7 @@ I'm a Machine Learning Engineer passionate about **Arabic NLP**, **Large Languag
   <a href="https://www.upwork.com/freelancers/~016a9fea792423bb9a"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
   <a href="https://www.researchgate.net/profile/Abdelkareem-Elkhateb"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
   <a href="https://scholar.google.com/citations?user=lF1wxvcAAAAJ&hl=ar"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
-
+  <a href="https://gpuvec.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
 </p>
 
 <p align="center">
