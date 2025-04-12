@@ -10,7 +10,7 @@ I'm a Machine Learning Engineer passionate about **Arabic NLP**, **Large Languag
   <a href="https://linkedin.com/in/abdelkareem-elkhateb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/Abdelkareem_NNs"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://kareemai.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="https://www.upwork.com/freelancers/~016a9fea792423bb9a"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+  <a href="[https://www.upwork.com/freelancers/~016a9fea792423bb9a](https://www.upwork.com/freelancers/abdelkareme)"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
 </p>
 
 ## 🔧 Tech Stack
@@ -74,8 +74,10 @@ I'm a Machine Learning Engineer passionate about **Arabic NLP**, **Large Languag
   *Tech*: Python, Astro.js, Markdown
 
 ## 📝 Recent Blog Posts
-- [Exploring Arabic NLP with Transformers](https://kareemai.com)  
-- [Building AI-Powered Astro.js Websites](https://kareemai.com)
+- [What is Federated Learning](https://kareemai.com/blog/posts/fl/what_is_federated_learning.html)
+- [Cloud GPU Pricing in 2025](https://kareemai.com/blog/posts/life_style/gpuvec.html)
+- [my drem job at Trarteel](https://kareemai.com/blog/posts/life_style/gpuvec.html)
+
 
 ## 📬 Connect with Me
 <p align="center">
