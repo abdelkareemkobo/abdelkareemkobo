@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdelkareemkobo/abdelkareemkobo/main/banner.png" alt="Profile Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/abdelkareemkobo/abdelkareemkobo/main/banner.png" alt="Arabic NLP Researcher" width="100%">
 </p>
 
 # Hey, I'm Abdelkareem Elkhateb 👋
 
-I'm a Machine Learning Engineer passionate about **Arabic NLP**, **Large Language Models**, and **Generative AI**. I build intelligent systems—think semantic search engines, recommendation systems, and AI-powered web apps—that solve real-world problems. Currently, I’m diving deep into NLP, RecSys, and computer vision while sipping coffee and coding with **Astro.js** at [kareemai.com](https://kareemai.com). 💻
+I'm a Machine Learning Engineer passionate about **Arabic NLP**, **Large Language Models**, and **Federated learning**. I build intelligent systems—think semantic search engines, recommendation systems, and AI-powered web apps—that solve real-world problems. Currently, I’m diving deep into NLP, RecSys, and computer vision while sipping coffee and coding with **Astro.js** and **FastHTML** at [kareemai.com](https://kareemai.com). 💻
 
 <p align="center">
   <a href="https://linkedin.com/in/abdelkareem-elkhateb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -24,9 +24,9 @@ I'm a Machine Learning Engineer passionate about **Arabic NLP**, **Large Languag
 
 ## 🌟 What I Do
 - **Arabic NLP**: Building LLMs, embeddings, and OCR/ASR models for Arabic content.
-- **Generative AI**: Crafting models for real estate images and creative applications.
+- **Generative AI**: Crafting models for interioer design, Medical Images and much more for real applications 
 - **RAG Systems**: Powering semantic search and recommendation engines.
-- **Web Dev with AI**: Creating Astro.js websites like [kam_calorie](https://kareemai.com) and [Awazly](https://kareemai.com).
+- **Web Dev with AI**: Creating Astro.js and HTMX websites like [Arabic calories Calculator](https://kamcalorie.com), [GPU Benchmark for AI](https://gpuvec.com),  and [عزل اسطح في جدة](https://awazly.com).
 
 ## 📊 GitHub Stats
 <p align="center">
