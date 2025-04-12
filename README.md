@@ -33,6 +33,8 @@ I'm a Machine Learning Engineer passionate about **Arabic NLP**, **Large Languag
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-FE7E5D?style=for-the-badge&logo=qdrant&logoColor=white" />
 </p>
 
 ## 🌟 What I Do
