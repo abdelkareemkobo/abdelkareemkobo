@@ -6,7 +6,7 @@
 
 *Making AI models small, fast, and actually useful.*
 
-[kareemai.com](https://kareemai.com) • [abdelkareemkobo](https://github.com/abdelkareemkobo)
+[kareemai.com](https://kareemai.com)
 
 </div>
 
