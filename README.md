@@ -1,95 +1,97 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdelkareemkobo/abdelkareemkobo/main/room2.jpg" alt="Arabic NLP Researcher" width="100%">
-</p>
+<div align="center">
 
-# Hey, I'm Abdelkareem Elkhateb 👋
+# Abdelkareem Elkhateb
 
-I'm a Machine Learning Engineer passionate about **Arabic NLP**, **Large Language Models**, and **Federated Learning**. I build intelligent systems—think semantic search engines, recommendation systems, and AI-powered web apps—that solve real-world problems. Currently, I’m diving deep into NLP, RecSys, and computer vision while sipping coffee and coding with **Astro.js** and **FastHTML** at [kareemai.com](https://kareemai.com). 💻
+**Arabic NLP Researcher • AI Engineer**
 
-<p align="center">
-  <a href="https://linkedin.com/in/abdelkareem-elkhateb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/Abdelkareem_NNs"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://kareemai.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="https://www.upwork.com/freelancers/~016a9fea792423bb9a"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
-  <a href="https://gpuvec.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
-</p>
+*Making AI models small, fast, and actually useful.*
 
-## 🔧 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastHTML-FF5733?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/vLLM-4B0082?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAI-00ADEF?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformers-F28C38?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-FE7E5D?style=for-the-badge&logo=qdrant&logoColor=white" />
-</p>
+[kareemai.com](https://kareemai.com) • [abdelkareemkobo](https://github.com/abdelkareemkobo)
 
-## 🌟 What I Do
-- **Arabic NLP**: Building LLMs, embeddings, and OCR/ASR models for Arabic content.
-- **Generative AI**: Crafting models for interior design, medical images, and more for real-world applications.
-- **RAG Systems**: Powering semantic search and recommendation engines with Qdrant.
-- **Web Dev with AI**: Creating Astro.js, FastHTML, and Supabase-powered websites like [Arabic Calories Calculator](https://kamcalorie.com), [GPU Benchmark for AI](https://gpuvec.com), and [عزل اسطح في جدة](https://awazly.com).
+</div>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelkareemkobo&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkareemkobo&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelkareemkobo&theme=radical" alt="GitHub Streak" />
-</p>
+---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://img.shields.io/badge/Coursera-Deep%20Learning%20Specialization-0052CC?style=for-the-badge&logo=coursera&logoColor=white" />
-  <img src="https://img.shields.io/badge/Udacity-Advanced%20Data%20Analysis-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" />
-  <img src="https://img.shields.io/badge/IEEE-Publication-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
-</p>
+## About
 
-## 🚀 Featured Projects
-- **[SEO Rat](https://github.com/abdelkareemkobo/seo_rat)**  
-  An SEO optimization tool for markdown-based content, hosted with Supabase.  
-  *Tech*: Python, Astro.js, Markdown, Supabase
-- **[Semantic Search Engine for Arabic Content](https://github.com/abdelkareemkobo/repo-name)**  
-  Built a transformer-based search engine with Qdrant to enhance Arabic content discoverability.  
-  *Tech*: Python, Transformers, FastAPI, Qdrant
-- **[Generative Art Models for Real Estate](https://github.com/abdelkareemkobo/repo-name)**  
-  Created diffusion models to generate real estate images from text descriptions.  
-  *Tech*: Python, Diffusion Models, FastAPI, CUDA
-- **[AI-Powered Childcare App](https://github.com/abdelkareemkobo/repo-name)**  
-  Developed a voice recognition system to interpret infant sounds for new mothers.  
-  *Tech*: Python, TensorFlow, FastAI
+I'm an NLP Engineer at [Xbites](https://xbites.io), building the AI backend for Darin. I research Arabic embeddings with [Hamza Salem Lab](https://www.enghamzasalem.com/) and contribute to [NAMMA](https://www.namaa.space/) for open-source Arabic AI.
 
-## 📝 Recent Blog Posts
-- [What is Federated Learning](https://kareemai.com/blog/posts/fl/what_is_federated_learning.html)  
-- [Cloud GPU Pricing in 2025](https://kareemai.com/blog/posts/life_style/gpuvec.html)  
-- [My Dream Job at Tarteeel](https://kareemai.com/blog/posts/life_style/tarteel.html)
+My thesis explores efficient transformer architectures for CPU deployment—focusing on model compression, quantization, and edge AI.
 
-## 📬 Connect with Me
-<p align="center">
-  <a href="mailto:kareem01095134686@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/Elkhateb"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="https://kareemai.com"><img src="https://img.shields.io/badge/Blog-FF7139?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
-  <a href="https://www.upwork.com/freelancers/~016a9fea792423bb9a"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
-  <a href="https://www.researchgate.net/profile/Abdelkareem-Elkhateb"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
-  <a href="https://scholar.google.com/citations?user=lF1wxvcAAAAJ&hl=ar"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
-  <a href="https://gpuvec.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
-</p>
+**Research Metrics:** 7 papers • 54 citations • 962 papers read
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF">
-</p>
+---
+
+## Current Focus
+
+**Arabic NLP** — Building efficient language models for Arabic text understanding  
+**Edge AI** — Compressing transformers to run on resource-constrained devices  
+**RAG Systems** — Semantic search and retrieval with Qdrant for production  
+**Research Engineering** — Bridging academic research with production ML systems
+
+---
+
+## Selected Work
+
+### BertHash-Femto
+113× smaller than AraBERTv2 with 94% accuracy. Runs inference on edge devices.  
+[GitHub](https://github.com/abdelkareemkobo) • Python, PyTorch, ONNX
+
+### Zarra & Bojji
+Tiny Arabic language models optimized for mobile devices.  
+[Article](http://kareemai.com/blog/posts/minishlab/blog_zaraah.html) • Model Compression, TensorFlow Lite
+
+### كم كالوري (KamCalorie)
+Arabic-first nutrition search engine with NLP-powered food recognition.  
+[Live](https://kamcalorie.com) • FastAPI, Astro.js, Arabic NLP
+
+### GPUVec
+Real-time GPU pricing tracker and ML benchmarking platform.  
+[Live](https://gpuvec.com) • Data Engineering, Web Scraping
+
+### SEO Rat
+SEO optimization tool for markdown-based static sites.  
+[GitHub](https://github.com/abdelkareemkobo/seo_rat) • Python, NLP, Markdown Processing
+
+---
+
+## Technical Background
+
+**Languages:** Python, Rust, C++, JavaScript  
+**ML/AI:** PyTorch, TensorFlow, Transformers, vLLM, FastAI  
+**MLOps:** Docker, Podman, CUDA, ONNX Runtime  
+**Web:** FastAPI, Astro.js, FastHTML, Svelte, Supabase  
+**Databases:** Qdrant, PostgreSQL, Vector Search
+
+---
+
+## Writing
+
+I write about Arabic NLP, model compression, and AI engineering at [kareemai.com/blog](https://kareemai.com/blog):
+
+- [What is Federated Learning](https://kareemai.com/blog/posts/fl/what_is_federated_learning.html)
+- [Cloud GPU Pricing in 2025](https://kareemai.com/blog/posts/life_style/gpuvec.html)
+- [Building Zarra: Tiny Arabic Models](http://kareemai.com/blog/posts/minishlab/blog_zaraah.html)
+
+Subscribe to my newsletter: [gpuvec.substack.com](https://gpuvec.substack.com)
+
+---
+
+## Research
+
+[Google Scholar](https://scholar.google.com/citations?user=lF1wxvcAAAAJ) • [ResearchGate](https://www.researchgate.net/profile/Abdelkareem-Elkhateb) • [Papers](https://kareemai.com/papers.html)
+
+---
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/abdelkareem-elkhateb) • [X/Twitter](https://x.com/Abdelkareem_NNs) • [Upwork](https://www.upwork.com/freelancers/~016a9fea792423bb9a) • [Email](mailto:kareem01095134688@gmail.com)
+
+---
+
+<div align="center">
+
+*"اللغة ليست عِلمًا .. بل هي شيء فوق العلم"*  
+*"Language is not a science — it is something above science."*
+
+</div>
